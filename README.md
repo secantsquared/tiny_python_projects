@@ -64,7 +64,7 @@ Here are the videos I've completed so far:
 First use the GitHub interface to "fork" this repository into your own account. Then do `git clone` of *your* repository to get a local copy. Inside that checkout, do:
 
 ````
-git remote add upstream https://github.com/kyclark/tiny_python_projects.git 
+git remote add upstream https://github.com/kyclark/tiny_python_projects.git
 ````
 
 This will allow you to `git pull upstream master` in order to get updates. When you create new files, `git add/commit/push` them to *your* repository. (Please do not create pull requests on *my* repository -- unless, of course, you have suggestions for improving my repo!).
@@ -72,3 +72,5 @@ This will allow you to `git pull upstream master` in order to get updates. When 
 # Copyright
 
 © Ken Youens-Clark 2019-2020
+
+- adjust
